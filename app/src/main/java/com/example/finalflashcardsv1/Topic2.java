@@ -142,7 +142,7 @@ public class Topic2 extends AppCompatActivity
         }
 
         Toast
-                .makeText(Topic1.this, toastMessageId,
+                .makeText(Topic2.this, toastMessageId,
                         Toast.LENGTH_SHORT)
                 .show();
     }
